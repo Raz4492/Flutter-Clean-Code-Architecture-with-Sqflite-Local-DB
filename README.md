@@ -72,7 +72,7 @@ The project follows **Clean Code Architecture** principles, dividing the codebas
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter-clean-code-architecture
+   cd Flutter-Clean-Code-Architecture-with-Sqflite-Local-DB
    ```
 
 3. Install dependencies:
